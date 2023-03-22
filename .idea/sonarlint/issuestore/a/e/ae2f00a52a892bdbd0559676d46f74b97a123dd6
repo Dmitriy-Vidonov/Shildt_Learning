@@ -1,0 +1,20 @@
+
+h	java:S101A"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™÷8·êñÌî0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£˜ßİşÿÿÿÿ8¹êñÌî0
+D
+java:S2189;""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÎêñÌî0
+D
+java:S2189,""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÎêñÌî0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÑêñÌî0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ™ôıøÿÿÿÿ8ÕêñÌî0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í¾îøÿÿÿÿ8ÖêñÌî0
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(Ÿş«¸ùÿÿÿÿ8§áóÌî0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8“Ü÷Ìî0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ™ôıøÿÿÿÿ8ØêñÌî0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡ıÕ­ùÿÿÿÿ8ãêñÌî0
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8óœùÌî0
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(¬ª¬èùÿÿÿÿ8šÜ÷Ìî0

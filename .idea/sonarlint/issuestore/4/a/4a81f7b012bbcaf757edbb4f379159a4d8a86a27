@@ -1,0 +1,14 @@
+
+R
+java:S1141"5Extract this nested try block into a separate method.(™¶é¾8ø’˜çì0
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸÝ•×ùÿÿÿÿ8ù’˜çì0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆçÈŒùÿÿÿÿ8ú’˜çì0
+W
+java:S1854"5Remove this useless assignment to local variable "b".(Ô·‹Öþÿÿÿÿ8†“˜çì0
+H
+java:S1481"&Remove this unused "b" local variable.(Ô·‹Öþÿÿÿÿ8ˆ“˜çì0
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ÞªìÈÿÿÿÿÿ8‰“˜çì0
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "-"(œÑÚÖûÿÿÿÿ8Š“˜çì0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìãóö8‹“˜çì0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñò¾ëûÿÿÿÿ8Œ“˜çì0

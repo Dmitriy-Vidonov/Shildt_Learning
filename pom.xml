@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.shildtlearning</groupId>
-    <artifactId>Chapter6_Classes</artifactId>
+    <artifactId>Java_Shildt_Book_Examples</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

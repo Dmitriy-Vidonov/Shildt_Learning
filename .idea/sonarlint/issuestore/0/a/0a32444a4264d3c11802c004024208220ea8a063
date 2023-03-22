@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ƒÂışÿÿÿÿ8‰Äıë0
+`
+java:S1214"CMove constants defined in this interfaces to another class or enum.(ê·£õ8Äıë0
+5
+java:S2140"Use "nextInt()" instead.(ˆ¡¦8–Äıë0
+C	java:S131%""Add a default case to this switch.(¿ÂĞ¥üÿÿÿÿ8§Åıë0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.( ¼ü°şÿÿÿÿ8ƒ§Åıë0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(„Ã´×8–Çıë0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(©Á¼8ŠöÇıë0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(äÅ”Ë8ˆ§Éıë0
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(¿ÉÖ8ãÃÊıë0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ë¢ÜÚ8¶ãËıë0

@@ -1,0 +1,23 @@
+
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùçÑÍ8æ†âÆï0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßóµÑ8ç†âÆï0
+S
+java:S2589)"7Remove this expression which always evaluates to "true"(÷„Çz8¾‡âÆï0
+Y
+java:S2589&"7Remove this expression which always evaluates to "true"(Â¨«şÿÿÿÿ8¾‡âÆï0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÿÖ¥8¿‡âÆï0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÿÖ¥8¿‡âÆï0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÿÖ¥8¿‡âÆï0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÿÖ¥8¿‡âÆï0
+e
+java:S1659"CDeclare "sobak2" and all following declarations on a separate line.(ñ­êøÿÿÿÿ8Ã‡âÆï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÚËÑÁ8Ä‡âÆï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÃòÈ8Ä‡âÆï0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Å‡âÆï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ç€õî8Æ‡âÆï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥‹Å8Æ‡âÆï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œáø»8Ç‡âÆï0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ç‡âÆï0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(½„´Ãúÿÿÿÿ8È‡âÆï0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(œáø»8È‡âÆï0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¬Åæí8É‡âÆï0

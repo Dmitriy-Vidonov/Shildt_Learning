@@ -1,0 +1,13 @@
+
+T
+java:S1854	"7Remove this useless assignment to local variable "ob3".(Ä©éÆ8¤ÕŞ–ë0
+Y
+java:S1854"7Remove this useless assignment to local variable "ob2".(¦‡Ûúÿÿÿÿ8¥ÕŞ–ë0
+T
+java:S1854"7Remove this useless assignment to local variable "ob1".(¡å»¢8¥ÕŞ–ë0
+E
+java:S1481"(Remove this unused "ob1" local variable.(¡å»¢8¦ÕŞ–ë0
+J
+java:S1481"(Remove this unused "ob2" local variable.(¦‡Ûúÿÿÿÿ8¦ÕŞ–ë0
+E
+java:S1481	"(Remove this unused "ob3" local variable.(Ä©éÆ8§ÕŞ–ë0

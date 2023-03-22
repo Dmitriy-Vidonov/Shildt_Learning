@@ -1,0 +1,16 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÄµw8ÎÆåî0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£˜ßİşÿÿÿÿ8ÏÆåî0
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(¶í‰…8ÚÆåî0
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÚÆåî0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Êã®8ÛÆåî0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¦üÎ8ÛÆåî0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¤ÄÎøÿÿÿÿ8ÜÆåî0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤œØ³8ÜÆåî0
+{
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Êã®8İÆåî0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¦øâıÿÿÿÿ8ŞÆåî0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(İƒÊÂùÿÿÿÿ8ÅÈæî0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Ÿ‚é©8‹³çî0

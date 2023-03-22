@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(° É©8Œ€«Çï0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßóµÑ8€«Çï0
+5
+java:S2140"Use "nextInt()" instead.(‰ß½ì8¢€«Çï0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.( ¼ü°şÿÿÿÿ8¦€«Çï0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(„Ã´×8¦€«Çï0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(©Á¼8§€«Çï0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(äÅ”Ë8¨€«Çï0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¿ÉÖ8¨€«Çï0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Ë¢ÜÚ8©€«Çï0

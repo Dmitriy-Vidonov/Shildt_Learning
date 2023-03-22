@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÅÊÙıÿÿÿÿ8×ÉÙ¯ê0
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÔ¬Ñùÿÿÿÿ8ØÉÙ¯ê0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã¾¼8ÙÉÙ¯ê0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äÆ’”8ÙÉÙ¯ê0
+X
+java:S1610"6Convert the abstract class "A_abst" into an interface.(ÜÔ¬Ñùÿÿÿÿ8ßÉÙ¯ê0
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(¦¸Û·ùÿÿÿÿ8âÉÙ¯ê0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅØè¸8ãÉÙ¯ê0

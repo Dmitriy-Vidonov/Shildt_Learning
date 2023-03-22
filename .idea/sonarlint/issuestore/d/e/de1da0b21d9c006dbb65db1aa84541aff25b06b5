@@ -1,0 +1,21 @@
+
+o
+java:S1192'"RDefine a constant instead of duplicating this literal " | compareTo() | " 3 times.(íæé¹8ºö”Æï0
+z
+java:S1192'"]Define a constant instead of duplicating this literal " Ğ¿Ğ¾ Ğ¾Ñ‚Ğ½Ğ¾ÑˆĞµĞ½Ğ¸Ñ Ğº " 3 times.(íæé¹8»ö”Æï0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¦º¿øÿÿÿÿ8èÔ…Æï0
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­÷·ıúÿÿÿÿ8éÔ…Æï0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßóµÑ8êÔ…Æï0
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íâäá8ôÔ…Æï0
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íâäá8ôÔ…Æï0
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íâäá8ôÔ…Æï0
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íâäá8õÔ…Æï0
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íâäá8õÔ…Æï0
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íâäá8õÔ…Æï0
+L
+java:S1481"*Remove this unused "doggo" local variable.(´÷âØüÿÿÿÿ8ûÔ…Æï0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı¹§“ùÿÿÿÿ8üÔ…Æï0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ğç‹éıÿÿÿÿ8şÔ…Æï0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(íæé¹8ÿÔ…Æï0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ĞÎÆ×úÿÿÿÿ8ÔÿÆï0
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ÊÄÙŞ8Úö”Æï0
